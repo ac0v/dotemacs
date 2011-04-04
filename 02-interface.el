@@ -8,7 +8,7 @@
 ;; defaults for graphical frames. important because emacsclient -c
 ;; doesn't respect the font of the default face.
 (setq window-system-default-frame-alist
-      '((x (font . "Bitstream Vera Sans Mono-8")
+      '((x (font . "Bitstream Vera Sans Mono-10")
            (background-color . "white")
            (foreground-color . "black"))))
 
